@@ -1,6 +1,5 @@
 @import url('./components/avatar.css');
 .saludo{
-
  color: peru;
  text-align: center;
  letter-spacing: 3px;
@@ -69,4 +68,13 @@
     .column {
       width: 100%;
     }
+  }
+
+
+
+  #receta{
+    color: peru;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 40px;
   }
